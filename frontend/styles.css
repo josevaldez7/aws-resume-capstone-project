@@ -52,7 +52,7 @@ body, html {
 
 ul {
     padding-left: 20px;
-    list-style-type: none; 
+    list-style-type: circle;
 }
 
 li {
@@ -62,7 +62,7 @@ li {
 }
 
 #education p {
-    font-style: italic;
+    font-style: normal;
 }
 
 .degree {
