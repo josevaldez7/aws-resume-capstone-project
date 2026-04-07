@@ -7,7 +7,7 @@ This project is a personal resume website deployed using AWS cloud services. It 
 
 ## System Architecture Diagram
 
-![Architecture Diagram](./architecture-diagram.png)
+![Architecture Diagram](./screenshots/architecture-diagram.png)
 
 ---
 
